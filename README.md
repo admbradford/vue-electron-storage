@@ -20,7 +20,7 @@ Vue.use(VueElectronStorage)
 ```
 
 ## Using the plugin
-This plugin will attach electron APIs to the Vue object itself, so accessing all APIs is dead simple. All official documentation from electron can be used and accessed from `this.$storage`.
+This plugin will attach electron-storage APIs to the Vue object itself, so accessing all APIs is dead simple. All official documentation from electron-storage can be used and accessed from `this.$storage`.
 
 So instead of...
 ```js
@@ -57,4 +57,4 @@ export default {
 }
 ```
 
-Now you might be thinking, "Is it really that annoying to simply require electron to access it?" Probably not, but it can get cumbersome to have to include it in every component file that needs it. In the end, attaching electron storage directly to Vue just makes sense.
+Now you might be thinking, "Is it really that annoying to simply require electron to access it?" Probably not, but it can get cumbersome to have to include it in every component file that needs it. In the end, attaching electron-storage directly to Vue just makes sense.
