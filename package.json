@@ -1,24 +1,24 @@
 {
-    "name": "vue-electron-storage",
-    "version": "1.0.0",
-    "description": "A vue plugin that attaches electron-storage APIs to the Vue object, making them accessible to all components.",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/admbradford/vue-electron-storage.git"
-    },
-    "keywords": [
-        "vue",
-        "electron",
-        "api",
-        "wrapper",
-        "storage",
-        "json"
-    ],
-    "author": "Adam Bradford <admbradford@gmail.com>",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/admbradford/vue-electron-storage/issues"
-    },
-    "homepage": "https://github.com/admbradford/vue-electron-storage#readme"
+  "name": "vue-electron-storage",
+  "version": "1.0.1",
+  "description": "A vue plugin that attaches electron-storage APIs to the Vue object, making them accessible to all components.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admbradford/vue-electron-storage.git"
+  },
+  "keywords": [
+    "vue",
+    "electron",
+    "api",
+    "wrapper",
+    "storage",
+    "json"
+  ],
+  "author": "Adam Bradford <admbradford@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admbradford/vue-electron-storage/issues"
+  },
+  "homepage": "https://github.com/admbradford/vue-electron-storage#readme"
 }
