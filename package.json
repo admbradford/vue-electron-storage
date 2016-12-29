@@ -11,7 +11,9 @@
         "vue",
         "electron",
         "api",
-        "wrapper"
+        "wrapper",
+        "storage",
+        "json"
     ],
     "author": "Adam Bradford <admbradford@gmail.com>",
     "license": "ISC",
